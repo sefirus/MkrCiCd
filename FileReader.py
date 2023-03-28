@@ -25,4 +25,3 @@ class FileReader:
         with open(file_name, 'w') as file:
             for line in lines:
                 file.write(line)
-
