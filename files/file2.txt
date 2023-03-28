@@ -1,0 +1,11 @@
+same line 1
+same line 2
+same line 3
+diff SECOND FILE 1
+same line 4
+diff SECOND FILE 2
+same line 1
+same line 3
+diff SECOND FILE 3
+same line 2
+diff SECOND FILE 4
